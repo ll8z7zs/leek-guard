@@ -22,8 +22,8 @@
   </g>
 
   <!-- Text Content -->
-  <text x="300" y="140" font-family="Arial, sans-serif" font-weight="bold" font-size="48" fill="white">Smart Stock</text>
-  <text x="300" y="190" font-family="Arial, sans-serif" font-size="24" fill="#94a3b8">Your Personal Market Assistant</text>
+  <text x="300" y="140" font-family="Arial, sans-serif" font-weight="bold" font-size="48" fill="white">Leek Guard</text>
+  <text x="300" y="190" font-family="Arial, sans-serif" font-size="24" fill="#94a3b8">韭菜守護者 - 上班族看盤神器</text>
   
   <!-- Feature Tags -->
   <g transform="translate(300, 230)">
